@@ -29,13 +29,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="125" height="125">
+    <img src="images/logo.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">iHybrid za QGIS</h3>
 
   <p align="center">
-    pomoč uporabnikom pri namestitvi opreme
+    navodila za pomoč uporabnikom pri namestitvi programske opreme
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Več o iHybridu »</strong></a>
     <br />
@@ -94,18 +94,17 @@
 <!-- ABOUT THE PROJECT -->
 ## Nekaj o projektu
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Na spletu se nahaja veliko prostorskih podatkov, ki niso urejeni in redno osveženi. V podjetju Kaliopa d.o.o. to skrb prevzamemo mi, zato da se lahko vi osredotočite na svoje delo. Do podatkov je mogoče dostopati enostavno preko spletnih portalov iObcina.si / iKomunala.si ali pa skozi vmesnik iHybird v okolju AutoCAD.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Kot novost v našo paleto rešitev dodajamo vmesnik **iHybrid - QGIS**, ki podatke spletnega portala iObcina.si / iKomunala.si prenese v okolje GIS - ovskega programa QGIS. Razviti vmesnik se dopolnjuje s prostorskimi orodji QGIS-a in uporabniku omogoča dostop do ažurnih podatkov, ki lahko služijo kot podlaga pri delu. Z vtičnikom je med drugim mogoče:
+- Pregled vektorskih in rastrskih podatkov, 
+- prenos in urejanje vektorski podatkov v lokalno okolje za trenutno ali celotno območje občine,
+- poizvedovanje po posameznih identitetah in še mnogo več ...
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
-Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 
 
 
