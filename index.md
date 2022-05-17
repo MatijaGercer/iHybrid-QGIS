@@ -35,7 +35,7 @@
   <h3 align="center">iHybrid za QGIS</h3>
 
   <p align="center">
-    navodila za pomoč uporabnikom pri namestitvi programske opreme
+    navodila za pomoč uporabnikom pri namestitvi
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Več o iHybridu »</strong></a>
     <br />
@@ -94,54 +94,26 @@
 <!-- ABOUT THE PROJECT -->
 ## Nekaj o projektu
 
-Na spletu se nahaja veliko prostorskih podatkov, ki niso urejeni in redno osveženi. V podjetju Kaliopa d.o.o. to skrb prevzamemo mi, zato da se lahko vi osredotočite na svoje delo. Do podatkov je mogoče dostopati enostavno preko spletnih portalov iObcina.si / iKomunala.si ali pa skozi vmesnik iHybird v okolju AutoCAD.
-
-Kot novost v našo paleto rešitev dodajamo vmesnik **iHybrid - QGIS**, ki podatke spletnega portala iObcina.si / iKomunala.si prenese v okolje GIS - ovskega programa QGIS. Razviti vmesnik se dopolnjuje s prostorskimi orodji QGIS-a in uporabniku omogoča dostop do ažurnih podatkov, ki lahko služijo kot podlaga pri delu. Z vtičnikom je med drugim mogoče:
+V  paleto prostorskih rešitev dodajamo vmesnik **iHybrid - QGIS**, ki podatke spletnega portala iObcina.si / iKomunala.si prenese v okolje QGIS. Razviti vmesnik se dopolnjuje s prostorskimi orodji programa in uporabniku omogoča dostop do svežih in urejenih podatkov, ki lahko služijo kot odlična podlaga pri delu. Vmesnik med drugim omogoča:
 - Pregled vektorskih in rastrskih podatkov, 
 - prenos in urejanje vektorski podatkov v lokalno okolje za trenutno ali celotno območje občine,
 - poizvedovanje po posameznih identitetah in še mnogo več ...
 
 
 
-
-
-
-
-
-
-<!-- GETTING STARTED -->
 ## Kako začeti
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+V nadaljevanju je opisan postopek kako namestiti vmesnik. Ker je vmesnik trenutno še v razvoju, se lahko navodila za namestitev še nekoliko spremenijo.
 
 ### Zahteve
+Vmesnik trenutno deluje le znotraj operacijskega sistema Windows 7 (in več). Za uporabo vmesnika iHybird je potrebno namestiti osnovni program  **QGIS v 3.10** ali več. Namestitev je lahko tako samostjona, kot tudi preko OSGeo4W installerja. Če QGIS-a še nimate, ga lahko namestite preko [QGIS](https://qgis.org/en/site/forusers/download.html) povezave. 
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+
 
 ### Kako namestiti
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Odpremo 
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
