@@ -112,20 +112,26 @@ Vmesnik trenutno deluje le znotraj operacijskega sistema Windows 7 (in več). Za
 
 ### Kako namestiti
 
-Odpremo 
+1) Prenesemo .zip datoteko vmesnika, ki jo dobimo na povezavi **tukaj**. Datkteko poljubno shranimo lokalno na računalnik in pustimo v formatu .zip . 
+2) Odpremo program QGIS. V orodni vrstici (Menu toolbar) poiščemo zavihek **Plugins** in odpremo orodje Manage and Install Plugins. 
+3) Odpre se orodje, kjer v zavihku na levi izberemo **Install from ZIP**
+4) S klikom na (...) poiščemo datoteko pot do datoteke .zip, ki smo jo predhodno shranili in nato izbiro potrdimo s gumbom Install Plugin.
 
-
+**Edit:** Po koraku 4) se lahko pojavi pogovorno okno Securty warning, ki sprašuje ali smo prepričani, da želimo namestiti vmesnik neznanega avtorja. Potrdimo izbiro in zaključimo namestitev. (do tega pride, saj vmesnik ni javno obljavnjen v repozitorju QGIS)
 
 
 <!-- USAGE EXAMPLES -->
 ## Uporaba
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+V orodni vrstici zgoraj se je ustvarila bližnjica do programa iHybrid. Ob kliku nanjo se na desni strani odpre vtičnik v katerega se je potrebno prijaviti.
+- Izbrati je  potrebno portal in občino znotraj katere bomo delali
+- Vnesti je potrebno uporabniško ime in geslo, ki sta enaka kot na spletnih portalih iObčina.si / iKomunala.si
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+**Edit:** Za vsako občino se je potrebno imeti svoj račun. Če še nistre registrirani, prosim izberite občino in se registrirajte [tukaj](https://www.iobcina.si/selectiobcina/) in nato nadaljujte v programu QGIS.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
+## Licenca
+Na voljo je 10 dnevna brezplačna licenca. Če želite podaljšati licenco, nas prosim kontaktirajte preko kontaktneca centra... Tukaj nadaljuj...
 
 
 <!-- ROADMAP -->
