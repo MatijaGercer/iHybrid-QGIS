@@ -1,11 +1,4 @@
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -71,15 +64,17 @@
 -->
 
 
-<!-- ABOUT THE PROJECT -->
 ## Nekaj o projektu
 
-V  paleto prostorskih rešitev dodajamo vmesnik **iHybrid - QGIS**, ki podatke spletnega portala iObcina.si prenese v okolje QGIS. Razviti vmesnik se dopolnjuje s prostorskimi orodji programa QGIS in uporabniku omogoča dostop do svežih in urejenih podatkov. Glavne funkcionalnosti programa so: 
-- Pregled vektorskih in rastrskih podatkov, 
-- prenos in urejanje vektorski podatkov v lokalno okolje za trenutno ali celotno območje občine,
-- poizvedovanje po posameznih identitetah in še mnogo več ...
+V  paleto prostorskih rešitev dodajamo vmesnik **iHybrid - QGIS**, ki podatke spletnega portala [iObcina.si](https://www.iobcina.si/) / [iKomunala.si](https://www.ikomunala.si/)  prenese v okolje QGIS. Razviti vmesnik se dopolnjuje s prostorskimi orodji programa QGIS in uporabniku omogoča dostop do svežih in urejenih podatkov. Glavne funkcionalnosti programa so: 
+
+- Pregled vektorskih in rastrskih podatkov
+- Prenos in urejanje vektorski podatkov v lokalno okolje za trenutno ali celotno območje občine
+- Poizvedovanje po posameznih identitetah in še mnogo več ...
 
 <p align="right">(<a href="#top">nazaj na vrh</a>)</p>
+
+
 
 ## Kako začeti
 
@@ -87,21 +82,25 @@ V nadaljevanju je opisan postopek kako namestiti vmesnik. Ker je vmesnik še v f
 
 <p align="right">(<a href="#top">nazaj na vrh</a>)</p>
 
+
+
 ### Zahteve
-- Operacijski sistem **Windows 7** ali več.
-- Program  **QGIS v 3.10** ali **več**. 
+- Operacijski sistem **Windows 7** ali več
+- Program  **QGIS v 3.10** ali več
 
 <p align="right">(<a href="#top">nazaj na vrh</a>)</p>
+
+
+
 ### Kako namestiti iHybrid
 
-1. Prenesemo .zip datoteko vmesnika, ki jo dobimo na povezavi **tukaj**. Datoteko poljubno shranimo lokalno na računalnik in pustimo v formatu .zip. 
+1. Prenesemo .zip datoteko vmesnika, ki jo dobimo na povezavi **tukaj**. Datoteko poljubno shranimo lokalno na računalnik in pustimo v formatu .zip 
   
-2. Odpremo program QGIS. V orodni vrstici (Menu toolbar) poiščemo zavihek **Plugins** in odpremo orodje Manage and Install Plugins. 
+2. Odpremo program QGIS. V orodni vrstici (Menu toolbar) poiščemo zavihek **Plugins** in odpremo orodje Manage and Install Plugins
    
 3. Odpre se orodje, kjer v zavihku na levi izberemo **Install from ZIP**
    
-4. S klikom na (...) poiščemo datoteko pot do datoteke .zip, ki smo jo predhodno shranili in nato izbiro potrdimo s gumbom Install Plugin.
-
+4. S klikom na (...) poiščemo datoteko pot do datoteke .zip, ki smo jo predhodno shranili in nato izbiro potrdimo s gumbom Install Plugin
 
 ![Alt Text](images/install.gif)
 
@@ -109,7 +108,9 @@ V nadaljevanju je opisan postopek kako namestiti vmesnik. Ker je vmesnik še v f
 
 <p align="right">(<a href="#top">nazaj na vrh</a>)</p>
 
-<!-- USAGE EXAMPLES -->
+
+
+
 ## Uporaba
 
 V orodni vrstici zgoraj se je ustvarila bližnjica do programa iHybrid. Ob kliku nanjo se na desni strani odpre vtičnik v katerega se je potrebno prijaviti.
@@ -120,6 +121,9 @@ V orodni vrstici zgoraj se je ustvarila bližnjica do programa iHybrid. Ob kliku
 
 <p align="right">(<a href="#top">nazaj na vrh</a>)</p>
 
+
+
+
 ## Licenca
 Na voljo je 10 dnevna brezplačna licenca. Če želite podaljšati licenco, nas prosim kontaktirajate: 
 - [Elektronske pošte](mailto:admin@cloudhadoop.com)
@@ -128,7 +132,8 @@ Na voljo je 10 dnevna brezplačna licenca. Če želite podaljšati licenco, nas 
 <p align="right">(<a href="#top">nazaj na vrh</a>)</p>
 
 
-<!-- ROADMAP -->
+
+
 ## Trenutno v razvoju
 
 - [x] Pregledovalnik vektorskih in rastrskih podatkov
@@ -143,25 +148,20 @@ Na voljo je 10 dnevna brezplačna licenca. Če želite podaljšati licenco, nas 
 
 Ste zaznali napako? Sporočite na [podporo](https://podpora.kaliopa.si/) in prispevajte k boljšemu delovanju programa!
 
-
-
 <p align="right">(<a href="#top">nazaj na vrh</a>)</p>
 
 
 
 
-
-
-<!-- ACKNOWLEDGMENTS -->
 ## Povezave
 
 Povezave, ki so vam lahko v korist pri uporabi QGIS in vmesnika iHybird - QGIS.
 
-* [iObcina.si](https://choosealicense.com)
-* [iKomunala.si](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Kaliopa.si](https://flexbox.malven.co/)
-* [QGIS](https://grid.malven.co/)
-* [QGIS Docs](https://shields.io)
+* [iObcina.si](https://www.iobcina.si/)
+* [iKomunala.si](https://www.ikomunala.si/)
+* [Kaliopa.si](https://www.kaliopa.si/)
+* [QGIS](https://qgis.org/en/site/)
+* [QGIS Docs](https://qgis.org/en/docs/index.html)
 
 <p align="right">(<a href="#top">nazaj na vrh</a>)</p>
 
