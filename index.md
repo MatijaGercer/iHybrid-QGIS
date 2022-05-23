@@ -122,6 +122,8 @@ V nadaljevanju je opisan postopek kako namestiti vmesnik. Ker je vmesnik še v f
 
 4) S klikom na (...) poiščemo datoteko pot do datoteke .zip, ki smo jo predhodno shranili in nato izbiro potrdimo s gumbom Install Plugin.
 
+![Alt Text](images/install.gif)
+
 **Edit:** Po koraku 4) se lahko pojavi pogovorno okno Securty warning, ki sprašuje ali smo prepričani, da želimo namestiti vmesnik neznanega avtorja. Potrdimo izbiro in zaključimo namestitev. (do tega pride, saj vmesnik ni javno obljavnjen v repozitorju QGIS)
 
 
