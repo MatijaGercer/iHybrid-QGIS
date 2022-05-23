@@ -63,7 +63,6 @@ V  paleto prostorskih rešitev dodajamo vmesnik **iHybrid - QGIS**, ki podatke s
 - Prenos in urejanje vektorski podatkov v lokalno okolje za trenutno ali celotno območje občine
 - Poizvedovanje po posameznih identitetah in še mnogo več ...
 
-<p align="right">(<a href="#top">nazaj na vrh</a>)</p>
 
 
 
@@ -71,15 +70,11 @@ V  paleto prostorskih rešitev dodajamo vmesnik **iHybrid - QGIS**, ki podatke s
 
 V nadaljevanju je opisan postopek kako namestiti vmesnik. Ker je vmesnik še v fazi razvoja, se lahko navodila še spremenijo. 
 
-<p align="right">(<a href="#top">nazaj na vrh</a>)</p>
-
 
 
 ### Zahteve
 - Operacijski sistem **Windows 7** ali več
 - Program  **QGIS v 3.10** ali več
-
-<p align="right">(<a href="#top">nazaj na vrh</a>)</p>
 
 
 
