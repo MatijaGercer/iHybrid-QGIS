@@ -94,7 +94,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Nekaj o projektu
 
-V  paleto prostorskih rešitev dodajamo vmesnik **iHybrid - QGIS**, ki podatke spletnega portala iObcina.si prenese v okolje QGIS. Razviti vmesnik se dopolnjuje s prostorskimi orodji programa QGIS in uporabniku omogoča dostop do svežih in urejenih podatkov. **Glavne funkcionalnosti:**
+V  paleto prostorskih rešitev dodajamo vmesnik **iHybrid - QGIS**, ki podatke spletnega portala iObcina.si prenese v okolje QGIS. Razviti vmesnik se dopolnjuje s prostorskimi orodji programa QGIS in uporabniku omogoča dostop do svežih in urejenih podatkov. Glavne funkcionalnosti programa so: 
 - Pregled vektorskih in rastrskih podatkov, 
 - prenos in urejanje vektorski podatkov v lokalno okolje za trenutno ali celotno območje občine,
 - poizvedovanje po posameznih identitetah in še mnogo več ...
@@ -106,17 +106,20 @@ V  paleto prostorskih rešitev dodajamo vmesnik **iHybrid - QGIS**, ki podatke s
 V nadaljevanju je opisan postopek kako namestiti vmesnik. Ker je vmesnik še v fazi razvoja, se lahko navodila še spremenijo. 
 
 ### Zahteve
-Namestitev je trenutno mogoča znotraj operacijskega sitema **Microsoft Windows 7** ali  **več.** Za uporabo vmesnika iHybird je potrebno namestiti program  **QGIS v 3.10** ali **več**. Namestitev je lahko tako samostjona, kot tudi preko OSGeo4W installerja. Če QGIS-a še nimate, ga lahko namestite preko [QGIS](https://qgis.org/en/site/forusers/download.html) povezave. 
-
-
-
+- Operacijski sistem **Windows 7** ali več.
+- Program  **QGIS v 3.10** ali **več**. 
 
 
 ### Kako namestiti iHybrid
 
-1) Prenesemo .zip datoteko vmesnika, ki jo dobimo na povezavi **tukaj**. Datkteko poljubno shranimo lokalno na računalnik in pustimo v formatu .zip . 
+1) Prenesemo .zip datoteko vmesnika, ki jo dobimo na povezavi **tukaj**. Datoteko poljubno shranimo lokalno na računalnik in pustimo v formatu .zip. 
+   
 2) Odpremo program QGIS. V orodni vrstici (Menu toolbar) poiščemo zavihek **Plugins** in odpremo orodje Manage and Install Plugins. 
+
+
 3) Odpre se orodje, kjer v zavihku na levi izberemo **Install from ZIP**
+
+
 4) S klikom na (...) poiščemo datoteko pot do datoteke .zip, ki smo jo predhodno shranili in nato izbiro potrdimo s gumbom Install Plugin.
 
 **Edit:** Po koraku 4) se lahko pojavi pogovorno okno Securty warning, ki sprašuje ali smo prepričani, da želimo namestiti vmesnik neznanega avtorja. Potrdimo izbiro in zaključimo namestitev. (do tega pride, saj vmesnik ni javno obljavnjen v repozitorju QGIS)
