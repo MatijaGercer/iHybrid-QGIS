@@ -94,7 +94,7 @@ V nadaljevanju je opisan postopek kako namestiti vmesnik. Ker je vmesnik še v f
 
 ### Kako namestiti iHybrid
 
-1. Prenesemo .zip datoteko vmesnika, ki jo dobimo na povezavi **tukaj**. Datoteko poljubno shranimo lokalno na računalnik in pustimo v formatu .zip 
+1. Prenesemo .zip datoteko vmesnika, ki jo dobimo na povezavi **tukaj (še ne dela)**. Datoteko poljubno shranimo lokalno na računalnik in pustimo v formatu .zip 
   
 2. Odpremo program QGIS. V orodni vrstici (Menu toolbar) poiščemo zavihek **Plugins** in odpremo orodje Manage and Install Plugins
    
