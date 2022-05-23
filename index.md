@@ -106,15 +106,13 @@ V  paleto prostorskih rešitev dodajamo vmesnik **iHybrid - QGIS**, ki podatke s
 V nadaljevanju je opisan postopek kako namestiti vmesnik. Ker je vmesnik še v fazi razvoja, se lahko navodila še spremenijo. 
 
 ### Zahteve
-Namestitev je trenutno mogoča znotraj operacijskega sistema **Microsoft Windows 7** ali  **več.**
+Namestitev je trenutno mogoča znotraj operacijskega sitema **Microsoft Windows 7** ali  **več.** Za uporabo vmesnika iHybird je potrebno namestiti program  **QGIS v 3.10** ali **več**. Namestitev je lahko tako samostjona, kot tudi preko OSGeo4W installerja. Če QGIS-a še nimate, ga lahko namestite preko [QGIS](https://qgis.org/en/site/forusers/download.html) povezave. 
 
 
 
-Vmesnik trenutno deluje le znotraj operacijskega sistema Windows 7 (in več). Za uporabo vmesnika iHybird je potrebno namestiti osnovni program  **QGIS v 3.10** ali več. Namestitev je lahko tako samostjona, kot tudi preko OSGeo4W installerja. Če QGIS-a še nimate, ga lahko namestite preko [QGIS](https://qgis.org/en/site/forusers/download.html) povezave. 
 
 
-
-### Kako namestiti
+### Kako namestiti iHybrid
 
 1) Prenesemo .zip datoteko vmesnika, ki jo dobimo na povezavi **tukaj**. Datkteko poljubno shranimo lokalno na računalnik in pustimo v formatu .zip . 
 2) Odpremo program QGIS. V orodni vrstici (Menu toolbar) poiščemo zavihek **Plugins** in odpremo orodje Manage and Install Plugins. 
