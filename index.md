@@ -94,7 +94,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Nekaj o projektu
 
-V  paleto prostorskih rešitev dodajamo vmesnik **iHybrid - QGIS**, ki podatke spletnega portala iObcina.si / iKomunala.si prenese v okolje QGIS. Razviti vmesnik se dopolnjuje s prostorskimi orodji programa in uporabniku omogoča dostop do svežih in urejenih podatkov, ki lahko služijo kot odlična podlaga pri delu. Vmesnik med drugim omogoča:
+V  paleto prostorskih rešitev dodajamo vmesnik **iHybrid - QGIS**, ki podatke spletnega portala iObcina.si prenese v okolje QGIS. Razviti vmesnik se dopolnjuje s prostorskimi orodji programa QGIS in uporabniku omogoča dostop do svežih in urejenih podatkov. **Glavne funkcionalnosti:**
 - Pregled vektorskih in rastrskih podatkov, 
 - prenos in urejanje vektorski podatkov v lokalno okolje za trenutno ali celotno območje občine,
 - poizvedovanje po posameznih identitetah in še mnogo več ...
@@ -103,9 +103,13 @@ V  paleto prostorskih rešitev dodajamo vmesnik **iHybrid - QGIS**, ki podatke s
 
 ## Kako začeti
 
-V nadaljevanju je opisan postopek kako namestiti vmesnik. Ker je vmesnik trenutno še v razvoju, se lahko navodila za namestitev še nekoliko spremenijo.
+V nadaljevanju je opisan postopek kako namestiti vmesnik. Ker je vmesnik še v fazi razvoja, se lahko navodila še spremenijo. 
 
 ### Zahteve
+Namestitev je trenutno mogoča znotraj operacijskega sistema **Microsoft Windows 7** ali  **več.**
+
+
+
 Vmesnik trenutno deluje le znotraj operacijskega sistema Windows 7 (in več). Za uporabo vmesnika iHybird je potrebno namestiti osnovni program  **QGIS v 3.10** ali več. Namestitev je lahko tako samostjona, kot tudi preko OSGeo4W installerja. Če QGIS-a še nimate, ga lahko namestite preko [QGIS](https://qgis.org/en/site/forusers/download.html) povezave. 
 
 
