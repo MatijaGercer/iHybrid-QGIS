@@ -107,6 +107,7 @@ V nadaljevanju je opisan postopek kako namestiti vmesnik. Ker je vmesnik še v f
 
 **Edit:** Po koraku 4. se lahko pojavi pogovorno okno Securty warning, ki sprašuje ali smo prepričani, da želimo namestiti vmesnik neznanega avtorja. Potrdimo izbiro in zaključimo namestitev. (do tega pride, saj vmesnik ni javno obljavnjen v repozitorju QGIS)
 
+<p align="right">(<a href="#top">nazaj na vrh</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 ## Uporaba
